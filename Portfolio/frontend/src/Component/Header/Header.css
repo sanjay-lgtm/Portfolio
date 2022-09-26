@@ -1,0 +1,8 @@
+
+.menuBurgerItem {
+    height: 0.3vmax;
+    width: 2.8vmax;
+    border-radius: 30px;
+    transition: all .4s;
+    color: red;
+}
